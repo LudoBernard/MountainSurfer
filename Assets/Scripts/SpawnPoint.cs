@@ -1,14 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using TreeEditor;
 using UnityEngine;
 
 public class SpawnPoint : MonoBehaviour
 {
-    [SerializeField] private GameObject obstacle_;
+    [SerializeField] private GameObject[] obstacle_;
 
     void Start()
     {
-        Instantiate(obstacle_, transform.position, Quaternion.identity);
+        int rand = Random.Range(0, obstacle_.Length);
+        Instantiate(obstacle_[rand], transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 }
