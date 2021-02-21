@@ -846,7 +846,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1986661229}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 4, z: 225.007}
+  m_LocalPosition: {x: 0, y: 2, z: 225.007}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -872,7 +872,7 @@ MonoBehaviour:
   - {fileID: 2335318708205413490, guid: 8fd9ecb83cc25904bbe4f890142275cd, type: 3}
   - {fileID: 2335318708205413490, guid: 84b92d478e54d444f8eb55ba30edc03b, type: 3}
   startTimeBtwSpawn_: 1
-  decreaseTime_: 0.001
+  decreaseTime_: 0.02
 --- !u!1 &2039810992
 GameObject:
   m_ObjectHideFlags: 0
