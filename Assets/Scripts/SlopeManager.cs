@@ -23,7 +23,8 @@ public class SlopeManager : MonoBehaviour
         GameObject movedSlope = slopes_[0];
         slopes_.Remove(movedSlope);
         float newZ = slopes_[slopes_.Count - 1].transform.position.z + offsetZ_;
-        movedSlope.transform.position = new Vector3(transform.position.x, transform.position.y, newZ);
+        var position = transform.position;
+        movedSlope.transform.position = new Vector3(position.x, position.y - 1, newZ);
         slopes_.Add(movedSlope);
     }
 }
