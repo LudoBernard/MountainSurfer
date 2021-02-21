@@ -10,6 +10,6 @@ public class CameraFollow : MonoBehaviour
     private const float XPosition = 0f;
     private void FixedUpdate()
     {
-        transform.position = new Vector3(XPosition, YPosition, player_.position.z - offset_);
+        transform.position = new Vector3(XPosition, YPosition + 5, player_.position.z - offset_);
     }
 }
