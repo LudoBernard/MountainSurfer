@@ -6,12 +6,13 @@
     <e p="C:\Users\victo\unity\MountainSurfer" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="CameraFollow.cs" t="Include" />
-        <e p="PlayerBehavior.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="PlayerBehavior.cs" t="Include" />
           <e p="ScoreText.cs" t="Include" />
           <e p="SlopeManager.cs" t="Include" />
         </e>
+        <e p="SlopeBehavior.cs" t="Include" />
       </e>
       <e p="MountainSurfer.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
