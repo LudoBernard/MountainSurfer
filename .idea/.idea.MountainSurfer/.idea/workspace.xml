@@ -20,18 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46a504a-cd3f-490f-8786-fb27b253a81f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SlopeBehavior.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CameraFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CameraFollow.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SlopeBehavior.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerBehavior.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Slope.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Slope.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LudoScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LudoScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LudoSceneSettings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LudoSceneSettings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/VictorScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VictorScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613824386493</updated>
-      <workItem from="1613824404240" duration="2367000" />
+      <workItem from="1613824404240" duration="3346000" />
     </task>
     <servers />
   </component>
