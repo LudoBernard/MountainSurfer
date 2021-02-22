@@ -6,12 +6,13 @@ using UnityEngine.UI;
 public class ScoreText : MonoBehaviour
 {
     private Transform player_;
-    private Text scoreText_;
+    [SerializeField] Text scoreText;
    
 
     // Update is called once per frame
     void Update()
     {
-        scoreText_.text = (Time.deltaTime * 100).ToString("0");
+        scoreText.text = (Time.time * 100).ToString("0");
     }
+    
 }
