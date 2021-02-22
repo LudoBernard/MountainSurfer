@@ -23,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MountainSurfer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/VictorScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/VictorScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +33,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObstaclePatternSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs.meta" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreText.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
       </list>
     </option>
   </component>
@@ -85,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613824386493</updated>
-      <workItem from="1613824404240" duration="3346000" />
+      <workItem from="1613824404240" duration="5916000" />
     </task>
     <servers />
   </component>
