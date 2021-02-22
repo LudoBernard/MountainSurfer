@@ -75,7 +75,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5342edafa1718ca4f942921737636312, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstacle_: {fileID: 8890709547434857554, guid: 01a010d12f3841142b49dce596d8db2d, type: 3}
+  obstacle_:
+  - {fileID: 8890709547434857554, guid: 8cd39aa258331ae4392414ee79c99689, type: 3}
 --- !u!1 &4250371285113513738
 GameObject:
   m_ObjectHideFlags: 0
@@ -119,4 +120,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5342edafa1718ca4f942921737636312, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstacle_: {fileID: 8890709547434857554, guid: 01a010d12f3841142b49dce596d8db2d, type: 3}
+  obstacle_:
+  - {fileID: 8890709547434857554, guid: 8cd39aa258331ae4392414ee79c99689, type: 3}
