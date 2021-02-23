@@ -75,5 +75,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacle_:
-  - {fileID: 8890709547434857554, guid: 01a010d12f3841142b49dce596d8db2d, type: 3}
-  - {fileID: 8890709547434857554, guid: 8cd39aa258331ae4392414ee79c99689, type: 3}
+  - {fileID: 1192516872139241840, guid: 89e431eb7ead1c943b8e7203ebd0bc6f, type: 3}
+  - {fileID: 7609518781237813415, guid: 590277bdcf073154eaa548d40ef948ef, type: 3}
+  - {fileID: 1876443644506360871, guid: 5116ed8523d4d4240a0d65fba1f0e5a0, type: 3}
+  - {fileID: 2725652522756452249, guid: d08687308939ab14a8bc6c98dde6dedf, type: 3}
