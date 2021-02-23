@@ -3,9 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class ObstacleBehavior : MonoBehaviour
 {
+
     [SerializeField] private float speed_;
     [SerializeField] private float sideSpeed_;
     
@@ -45,7 +47,8 @@ public class ObstacleBehavior : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            
+            SceneManager.LoadScene("MainMenu");
         }
         if (other.CompareTag("Waypoint"))
         {
