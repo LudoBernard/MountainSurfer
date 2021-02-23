@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2039499611678856645}
   - component: {fileID: 4247591711819333101}
   m_Layer: 0
-  m_Name: MovingObstacle 1
+  m_Name: MovingObstacle
   m_TagString: Moving
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,8 +62,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed_: 50
   sideSpeed_: 25
-  increaseSpeed_: 0.45
-  maxSpeed_: 120
+  increaseSpeed_: 0.1
+  maxSpeed_: 100
   increaseSideSpeed_: 0.3
   maxSideSpeed_: 50
 --- !u!54 &4247591711819333101
