@@ -62,7 +62,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed_: 50
   sideSpeed_: 25
-  increaseSpeed_: 0.1
+  increaseSpeed_: 0.5
   maxSpeed_: 100
   increaseSideSpeed_: 0.3
   maxSideSpeed_: 50

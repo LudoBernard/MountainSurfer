@@ -113,7 +113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed_: 50
   increaseSpeed_: 0.1
-  maxSpeed_: 120
+  maxSpeed_: 100
   slopeManager_: {fileID: 0}
 --- !u!65 &-7876844833053606879
 BoxCollider:

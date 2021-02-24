@@ -11,7 +11,7 @@ public class ObstaclePatternSpawner : MonoBehaviour
    private float timeBtwSpawn_;
    [SerializeField] private float startTimeBtwSpawn_;
    [SerializeField] private float decreaseTime_;
-   private float minTime_ = 0.5f;
+   private float minTime_ = 0.45f;
 
    private void Update()
    {
