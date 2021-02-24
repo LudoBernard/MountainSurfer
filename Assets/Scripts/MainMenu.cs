@@ -7,9 +7,11 @@ using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
+   [SerializeField] private GameObject mainCanvas;
 
    public void PlayGame()
    {
+      //mainCanvas.SetActive(true);
       SceneManager.LoadScene("LudoScene");
    }
 
